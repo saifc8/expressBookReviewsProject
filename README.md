@@ -1,2 +1,1 @@
-# expressBookReviewsProject
-express Book Reviews project
+# coding-project-template
